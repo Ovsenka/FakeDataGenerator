@@ -1,0 +1,17 @@
+# Ignore bytecode
+
+*.pyc
+*.pyo
+
+**/__pycache__/
+
+# Ignore settings
+**/config/
+
+# Data and logs
+**/logs/
+**/data/
+
+# Ignore env
+/env/
+
